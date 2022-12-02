@@ -48,6 +48,9 @@ nav {
     text-decoration: underline !important;
     text-decoration-color: #4a00e0;
 }
+.name {
+  z-index: 2;
+}
 .donate-btn {
     display: flex;
     justify-content: center;
